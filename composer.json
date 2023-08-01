@@ -13,7 +13,18 @@
             "name": "rudra"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.org/",
+            "options": {
+                "http": {
+                    "header": "Authorization: Bearer dba38186cbef469a37fc"
+                }
+            }
+        }
+    ]
 
 
 }
