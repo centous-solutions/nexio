@@ -1,6 +1,6 @@
 {
     "name": "nexio/payments",
-    "description": "this will create payments through nexio gateway",
+    "description": "this will create payments through nexio gateways",
     "type": "library",
     "license": "MIT",
     "autoload": {

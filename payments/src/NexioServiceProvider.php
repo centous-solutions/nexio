@@ -1,6 +1,5 @@
 <?php
 
-// namespace App\Providers;
 namespace Nexio\Payments;
 use Illuminate\Support\ServiceProvider;
 
