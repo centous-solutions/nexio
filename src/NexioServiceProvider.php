@@ -1,9 +1,7 @@
 <?php
 
 // namespace App\Providers;
-namespace nexioPackage\payments ;
-
-use Illuminate\Routing\Route;
+namespace Nexio\Payments;
 use Illuminate\Support\ServiceProvider;
 
 class NexioServiceProvider extends ServiceProvider

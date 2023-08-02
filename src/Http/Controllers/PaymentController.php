@@ -1,6 +1,6 @@
 <?php
 
-namespace nexioPackage\payments\Http\Controllers;
+namespace Nexio\Payments\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

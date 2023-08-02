@@ -1,17 +1,19 @@
 {
     "name": "nexio/payments",
-    "description": "this will setup nexio payment gateway",
+    "description": "this will create payments through nexio gateway",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "nexioPackage\\": "payments/"
+            "Nexio\\Payments\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "rudra"
+            "name": "Rudra886636",
+            "email": "rudra@prezentechnolabs.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
